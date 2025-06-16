@@ -12,7 +12,7 @@ using Project.Data;
 namespace Project.Migrations
 {
     [DbContext(typeof(DatabaseContext))]
-    [Migration("20250616085026_Init")]
+    [Migration("20250616103943_Init")]
     partial class Init
     {
         /// <inheritdoc />
